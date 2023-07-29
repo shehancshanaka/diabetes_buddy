@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000866522710",
+    "project_id": "diabetesbuddy-583c2",
+    "storage_bucket": "diabetesbuddy-583c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000866522710:android:f3e55ad6366f81c17a7df7",
+        "android_client_info": {
+          "package_name": "com.shanaka.diabites_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000866522710-3u7f7hjs8qp4b9jsokttdu595f36edfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shanaka.diabites_buddy",
+            "certificate_hash": "f9ab8ed0a40e65baf3946b6c6f8faad467833168"
+          }
+        },
+        {
+          "client_id": "1000866522710-kqe7m7ug38msojds6cmr1f2koi3ml5dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDkrkIMY1JzsnkBcOljR_lUm2xnKkqqtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000866522710-kqe7m7ug38msojds6cmr1f2koi3ml5dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
